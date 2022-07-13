@@ -13,4 +13,4 @@ To demonstrate how caching works, a controller was created and data from the Nor
 
 ***Next is an example of how caching works***
 
-![cash1](/cash1.png)
+![cash1](/cash1.jpg)
