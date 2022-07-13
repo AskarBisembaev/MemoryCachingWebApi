@@ -20,4 +20,3 @@ To demonstrate how caching works, a controller was created and data from the Nor
 ![cach2](/cach2.jpg)
 
 **And this is the speed of query execution after the data has been cached in memory**
-
