@@ -7,9 +7,9 @@ To demonstrate how caching works, a controller was created and data from the Nor
 **What was used:**
 + Platform - ` ASP.Net Core 6.0` 
 + Programming language - `C#`
-+ Data storage - `SQL Server`
++ Data storage - `SQL Server 18`
 + Data Base - `Northwind`
-+ Data access -` Entity Framework Core`
++ Data access -` Entity Framework Core 6.0.5`
 
 ***Next is an example of how caching works:***
 
